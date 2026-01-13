@@ -1,1 +1,2 @@
-Mini projeto criado por mim de um sistema de PERGUNTAS E RESPOSTAS usando dict em python
+Small project: questions and answers system using dict in python
+created by me
